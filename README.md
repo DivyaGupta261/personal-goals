@@ -3,7 +3,7 @@ Personal Goals
 
 Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning.
 
-# Overarching Goals (from Nov,2019 - Jan, 2020): [Make an Impact](http://una.im/2016-review/)
+# Overarching Goals (from Nov,2019 - Jan, 2020):
 1. Master JavaScript
 2. Learn dance choreography and shoot videos
 3. Walk everyday
